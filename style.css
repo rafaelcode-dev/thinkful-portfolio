@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: monospace;
     background-color:#DE9E36 ;
-    padding-right: 0px;
+    margin-right: 0px;
 }
 
 img {
@@ -53,6 +53,18 @@ header nav ul li:last-child a {
 
 #form-width {
     width: 100%;
+}
+footer {
+    background-color:#37323E;
+    margin-top: 40px;
+    margin-bottom: 0;
+    text-align:center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+footer p {
+    color:white;
 }
 
 
