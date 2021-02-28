@@ -45,7 +45,9 @@ header nav ul li a {
 header nav ul li:last-child a {
     margin-right: 0;
 }
-
+#map-width {
+    width:100%;
+}
 
 #form-width {
     width: 100%;
