@@ -45,6 +45,9 @@ header nav ul li a {
 header nav ul li:last-child a {
     margin-right: 0;
 }
+iframe {
+    height: 90%;
+}
 
 #map-width {
     width: 100%;
